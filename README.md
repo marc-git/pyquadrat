@@ -15,3 +15,5 @@ gm = gauss_map_to_simplex(g)
 g.tofile("gauss_box.txt")
 gm.tofile("gauss_simplex.txt")
 ```
+
+![Sample](https://github.com/marc-git/pyquadrat/blob/master/gauss_int_12.png)
