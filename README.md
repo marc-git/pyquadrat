@@ -3,7 +3,8 @@ Python module and associated notebook for calculating quadrature points and weig
 
 ## usage:
 
-```import pyquad
+```
+import pyquad
 
 ndim = 3
 npoly = 3
